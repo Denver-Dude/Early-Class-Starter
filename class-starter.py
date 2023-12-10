@@ -4,7 +4,7 @@ import pyautogui
 import time
 def Opening_Class():    
 	time.sleep(20)    
-	#Opening GOogle    
+	#Opening Google    
 	os.startfile ("C:\\Users\\User\\PycharmProjects\\Class Starter\\Denver (greenvalleyschools.in) chrome.lnk")    
 	time.sleep(4)    
 	#Maximizing_Window    
